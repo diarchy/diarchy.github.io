@@ -1,6 +1,5 @@
 <html>
 <head>
-	</head>
 <style type="text/css"> 
 
 body{
