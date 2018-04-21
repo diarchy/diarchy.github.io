@@ -1,4 +1,4 @@
-<html>
+<center><html>
 <head>
 <style type="text/css"> 
 
@@ -43,3 +43,4 @@ The band released their debut EP, <b>Here Lost We Lie</b>, in March 2017. They'r
 </center>
 </body>
 </html>
+</center>
