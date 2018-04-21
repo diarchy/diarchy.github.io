@@ -16,11 +16,11 @@ div {
 .small {font-size: 10px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 </style>
 </head>
-<center>
 <body>
 <br>
-<img src="diarchyband.jpg" width="500">
+<center><img src="diarchyband.jpg" width="500"></center>
 <br>
+<center>
 <SPAN style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Prakash(L) and Gaurrav(R) live at Indie March, 2016. Photograph by Nikhilesh Murthy.</SPAN>
 <br>
 <br>
