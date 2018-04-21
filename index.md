@@ -21,7 +21,7 @@ div {
 <center>
 <body>
 <br>
-<img src="diarchyband.jpg" width="720"/>
+<img src="diarchyband.jpg" width="500"/>
 <br>
 <SPAN
 style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Prakash(L) and Gaurrav(R) live at Indie March, 2016. Photograph by Nikhilesh Murthy.</SPAN>
