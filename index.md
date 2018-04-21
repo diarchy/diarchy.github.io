@@ -32,8 +32,8 @@ The band released their debut EP, Here Lost We Lie, in March 2017. They're curre
 <br>
 <br>
 <SPAN class="midlee">CONTACT</a></SPAN><br>
-<SPAN class="midlee">p:+91 9769 220633</a></SPAN><br>
-<SPAN class="midlee">e:<a href="mailto:mail@diarchyband.com">mail@diarchyband.com</a></SPAN><br>
+<SPAN class="midlee">p: +91 9769 220633</a></SPAN><br>
+<SPAN class="midlee">e:<a href="mailto:mail@diarchyband.com"> mail@diarchyband.com</a></SPAN><br>
 <br>
 <SPAN class="midlee">For bookings, contact Prasad Iyer at <a href="mailto:prasadiyer456@gmail.com">prasadiyer456@gmail.com</a></SPAN>
 <br>
