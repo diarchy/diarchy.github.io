@@ -10,7 +10,7 @@ body{
 }
 
 .middlej {font-size: 12px; color:#393939; letter-spacing:0.03em; line-height:40px;}
-.middlee {font-size: 15px; color:#393939; letter-spacing:0.03em; line-height:15px;}
+.middlee {font-size: 13px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 .small {font-size: 10px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 </style>
 </head>
