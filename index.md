@@ -17,14 +17,14 @@ body{
 <body>
 <center>
 <br>
-<img src="diarchyband.jpg" width="1000"/>
+<img src="diarchyband.jpg" width="500"/>
 <br>
 <SPAN
 style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Prakash(L) and Gaurrav(R) live at Indie March, 2016. Photograph by Nikhilesh Murthy.</SPAN>
 <br>
 <br>
 <br>
-<SPAN class="midlee">Diarchy is a two-piece stoner rock band from Bangalore, India. The band was formed in 2015 and they play a variety of rock that's inspired by the sounds of bands like Karma to Burn, Clutch, Colour Haze and Orange Goblin. In their two and a half years as a band, Diarchy have played regular shows around the country and have been part of festivals such as NH7 Weekender, Indie March and New Wave Asia.
+<SPAN class="midlee" width= "500">Diarchy is a two-piece stoner rock band from Bangalore, India. The band was formed in 2015 and they play a variety of rock that's inspired by the sounds of bands like Karma to Burn, Clutch, Colour Haze and Orange Goblin. In their two and a half years as a band, Diarchy have played regular shows around the country and have been part of festivals such as NH7 Weekender, Indie March and New Wave Asia.
 <br>
 <br>
 The band released their debut EP, Here Lost We Lie, in March 2017. They're currently in the process of writing their debut full length which the band expects to put out some time later in 2018.</SPAN>
@@ -37,8 +37,9 @@ The band released their debut EP, Here Lost We Lie, in March 2017. They're curre
 <br>
 <SPAN class="midlee">mail@diarchyband.com</SPAN>
 <br>
+<SPAN class="midlee"><a hrc="https://www.facebook.com/diarchyband">Facebook</a>|<a hrc="instagram.com/diarchyband">Instagram</a>|<a hrc="https://www.youtube.com/diarchyduo">YouTube</a></SPAN>
 <br>
-<SPAN class="midlee">For bookings, contact Prasad Iyer at prasadiyer456@gmail.com</SPAN>
+<SPAN class="midlee" width= "500">For bookings, contact Prasad Iyer at prasadiyer456@gmail.com</SPAN>
 <br>
 <br>
 <SPAN class="small">© ℗ 2018 Diarchy. All rights reserved.</SPAN>
