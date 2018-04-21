@@ -7,7 +7,8 @@ body{
 	padding:0;
 	background-color: #FFFFFF;
 	font-family: sans-serif;
-	width: 700px
+	width:700px;
+	align:center;
 }
 
 .middlej {font-size: 12px; color:#393939; letter-spacing:0.03em; line-height:40px;}
