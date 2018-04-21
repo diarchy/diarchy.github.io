@@ -6,7 +6,6 @@ body{
 	padding:0;
 	background-color: #FFFFFF;
 	font-family: sans-serif;
-	width:700px;
 }
 	
 div {
@@ -19,8 +18,8 @@ div {
 .small {font-size: 10px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 </style>
 </head>
-<body>
 <center>
+<body>
 <br>
 <img src="diarchyband.jpg" width="720"/>
 <br>
@@ -44,6 +43,6 @@ The band released their debut EP, <b>Here Lost We Lie</b>, in March 2017. They'r
 <br>
 <SPAN class="small"><a href="https://www.facebook.com/diarchyband"> Facebook </a>|<a href="instagram.com/diarchyband"> Instagram </a>|<a href="https://www.youtube.com/diarchyduo"> YouTube </a>|<a href="https://diarchy.bandcamp.com/"> Bandcamp </a></SPAN><br>
 <SPAN class="small">© ℗ 2018 Diarchy. All rights reserved.</SPAN>
-</center>
 </body>
+</center>
 </html>
