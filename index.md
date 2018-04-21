@@ -1,4 +1,4 @@
-title>SHINGO&nbsp;MASUDA+KATSUHISA&nbsp;OTSUBO&nbsp;/増田信吾＋大坪克亘</title>
+<title>Diarchy</title>
 
 <style type="text/css"> 
 
@@ -6,7 +6,7 @@ body{
 	margin:0;
 	padding:0;
 	background-color: #FFFFFF;
-	font-family: Times New Roman, Times, "ヒラギノ角ゴ Pro W3″, "Hiragino Kaku Gothic Pro W3″, "メイリオ", Meiryo, "ＭＳ Pゴシック", sans-serif;
+	font-family: sans-serif;
 }
 
 .middlej {font-size: 12px; color:#393939; letter-spacing:0.03em; line-height:40px;}
@@ -48,68 +48,30 @@ function winnewmap(url){
 <br>
 
 <SPAN
-style="font-size:13px; color:#666666; letter-spacing:0.1em">SHINGO&nbsp;MASUDA+KATSUHISA&nbsp;OTSUBO<br>architects<br><br></SPAN><SPAN style="font-size:12px; color:#666666; letter-spacing:0.1em">&nbsp;増田信吾＋大坪克亘</SPAN>
+style="font-size:13px; color:#666666; letter-spacing:0.1em"><br></SPAN><SPAN style="font-size:12px; color:#666666; letter-spacing:0.1em">&nbsp;増田信吾＋大坪克亘</SPAN>
 
 <br>
 <br>
 <br>
 
-<img src="boundarywindow.jpg" width="300" height="483" />
-
-<br>
-
-<SPAN
-style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em">2014<br>Boundary&nbsp;Window&nbsp;/</SPAN><SPAN style="font-size:9px; color:#000; line-height:6px">&nbsp;躯体の窓</SPAN>
-<br>
-<br>
-<br>
-<br>
-
-<SPAN
-class="middlee">Shingo&nbsp;Masuda&nbsp;/</SPAN><SPAN class="middlej">&nbsp;増田信吾</SPAN>
+<img src="diarchyband.jpg" width="300" height="483" />
 
 <br>
 
 <SPAN
-class="small">1982&nbsp;&nbsp;&nbsp;Born&nbsp;in&nbsp;Tokyo,&nbsp;JAPAN /</SPAN><SPAN class="small">&nbsp;東京都生まれ</SPAN>
-
+style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em">2014<br>Photograph by Nikhilesh Murthy</SPAN>
 <br>
-
-<SPAN
-class="small">2007&nbsp;&nbsp;&nbsp;Graduated&nbsp;Musashino&nbsp;Art&nbsp;University&nbsp;/</SPAN><SPAN class="small">&nbsp;武蔵野美術大学建築学科卒業</SPAN>
-
 <br>
-
-<SPAN
-class="small">2009-&nbsp;&nbsp;Lecturer&nbsp;at&nbsp;Musashino&nbsp;Art&nbsp;University&nbsp;/</SPAN><SPAN class="small">&nbsp;武蔵野美術大学非常勤講師</SPAN>
-
-</p>
-
 <br>
 <br>
 
 <SPAN
-class="middlee">Katsuhisa&nbsp;Otsubo&nbsp;/</SPAN><SPAN class="middlej">&nbsp;大坪克亘</SPAN>
+class="middlee">Diarchy is a two-piece stoner rock band from Bangalore, India. The band was formed in 2015 and they play a variety of rock that's inspired by the sounds of bands like Karma to Burn, Clutch, Colour Haze and Orange Goblin. In their two and a half years as a band, Diarchy have played regular shows around the country and have been part of festivals such as NH7 Weekender, Indie March and New Wave Asia.
+
+The band released their debut EP, Here Lost We Lie, in March 2017. They're currently in the process of writing their debut full length which the band expects to put out some time later in 2018.</SPAN>
 
 <br>
 
-<SPAN
-class="small">1983&nbsp;&nbsp;&nbsp;Born&nbsp;in&nbsp;Saitama,&nbsp;JAPAN&nbsp;/</SPAN><SPAN class="small">&nbsp;埼玉県生まれ</SPAN>
-
-<br>
-
-<SPAN
-class="small">2007&nbsp;&nbsp;&nbsp;Graduated&nbsp;Tokyo&nbsp;University&nbsp;of&nbsp;the&nbsp;Arts&nbsp;/</SPAN><SPAN class="small">&nbsp;東京藝術大学建築科卒業</SPAN>
-
-<br>
-<br>
-<br>
-
-
-<SPAN
-style="font-size:11px; color:#666666; line-height:30px;">CONTACT</SPAN>
-
-<br>
 
 <SPAN
 class="small">
@@ -128,13 +90,13 @@ class="small">tel/fax&nbsp;&nbsp;+81&nbsp;(0)3-5913-9790</SPAN>
 <br>
 <SPAN class="small">e-mail</SPAN>
 
-<a href="mailto:contact@salad-net.jp"><img src="mail.jpg" width="26" height="10" alt="mail" border="0"/></a><br>
+<a href="mailto:mail@diarchyband.com"></a><br>
 <br>
 <br>
 <br>
 
 <SPAN
-class="small">(C)&nbsp;SHINGO&nbsp;MASUDA+KATSUHISA&nbsp;OTSUBO</SPAN>
+class="small">© ℗ 2018 Diarchy. All rights reserved.</SPAN>
 
 <br>
 <br>
