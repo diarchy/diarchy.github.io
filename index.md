@@ -1,7 +1,6 @@
 <html>
 <head>
 <style type="text/css"> 
-<center>
 body{
 	margin:0;
 	padding:0;
@@ -16,7 +15,7 @@ body{
 </style>
 <center>
 </head>
-<body>
+<body width="700">
 <center>
 <br>
 <img src="diarchyband.jpg" width="720"/>
@@ -44,4 +43,3 @@ The band released their debut EP, <b>Here Lost We Lie</b>, in March 2017. They'r
 </center>
 </body>
 </html>
-</center>
