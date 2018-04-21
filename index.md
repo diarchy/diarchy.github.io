@@ -13,7 +13,6 @@ body{
 .middlee {font-size: 13px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 .small {font-size: 10px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 </style>
-<center>
 </head>
 <body width="700">
 <center>
