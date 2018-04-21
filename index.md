@@ -1,20 +1,20 @@
-<center><html>
+<html>
 <head>
 <style type="text/css"> 
-
+<center>
 body{
 	margin:0;
 	padding:0;
 	background-color: #FFFFFF;
 	font-family: sans-serif;
 	width:700px;
-	align:center;
 }
 
 .middlej {font-size: 12px; color:#393939; letter-spacing:0.03em; line-height:40px;}
 .middlee {font-size: 13px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 .small {font-size: 10px; color:#393939; letter-spacing:0.03em; line-height:13px;}
 </style>
+<center>
 </head>
 <body>
 <center>
