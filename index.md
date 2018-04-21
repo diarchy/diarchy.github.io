@@ -15,6 +15,8 @@ body{
 .small {font-size: 10px; color:#393939; letter-spacing:0.05em; line-height:13px;}
 </style>
 </head>
+<body
+<center>
 <br>
 <img src="diarchyband.jpg" width="300" height="483" />
 <br>
@@ -26,7 +28,10 @@ style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Pra
 The band released their debut EP, Here Lost We Lie, in March 2017. They're currently in the process of writing their debut full length which the band expects to put out some time later in 2018.</SPAN>
 <br>
 <br>
-<SPAN class="small">e:</SPAN><a href="mailto:mail@diarchyband.com">mail@diarchyband.com</a><br>
+<SPAN class="midlee">CONTACT</a></SPAN>
+<SPAN class="midlee">management: Anoop Bhat<a href="mailto:mail@diarchyband.com">mail@diarchyband.com</a></SPAN>
+<SPAN class="midlee">bookings: Prasad Iyer, <a href="mailto:prasadiyer456@gmail.com">prasadiyer456@gmail.com</a></SPAN>
+<br>
 <br>
 <br>
 <SPAN
