@@ -10,17 +10,17 @@ body{
 }
 
 .middlej {font-size: 12px; color:#393939; letter-spacing:0.03em; line-height:40px;}
-.middlee {font-size: 13px; color:#393939; letter-spacing:0.03em; line-height:15px;}
+.middlee {font-size: 12px; color:#393939; letter-spacing:0.03em; line-height:15px;}
 .small {font-size: 10px; color:#393939; letter-spacing:0.05em; line-height:13px;}
 </style>
 </head>
 <body>
 <center>
 <br>
-<img src="diarchyband.jpg" width="500"/>
+<img src="diarchyband.jpg" width="1000"/>
 <br>
 <SPAN
-style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Prakash(L) and Gaurrav(R) live at Indie March, 2016. Photograph by Nikhilesh Murthy</SPAN>
+style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Prakash(L) and Gaurrav(R) live at Indie March, 2016. Photograph by Nikhilesh Murthy.</SPAN>
 <br>
 <br>
 <br>
@@ -30,14 +30,15 @@ style="font-size:10px; color:#000; line-height:10px; letter-spacing:0.02em"> Pra
 The band released their debut EP, Here Lost We Lie, in March 2017. They're currently in the process of writing their debut full length which the band expects to put out some time later in 2018.</SPAN>
 <br>
 <br>
+<iframe style="border: 0; width: 500px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=2356808835/size=large/bgcol=ffffff/linkcol=de270f/artwork=small/transparent=true/" seamless><a href="http://diarchy.bandcamp.com/album/here-lost-we-lie">Here Lost We Lie by Diarchy</a></iframe>
 <br>
-<SPAN class="midlee">CONTACT</SPAN><br>
 <br>
-<SPAN class="midlee">e-mail: mail@diarchyband.com</SPAN><br>
-<SPAN class="midlee">phone: +91 9769220633</SPAN><br>
+<SPAN class="midlee">CONTACT</SPAN>
+<br>
+<SPAN class="midlee">mail@diarchyband.com</SPAN>
+<br>
 <br>
 <SPAN class="midlee">For bookings, contact Prasad Iyer at prasadiyer456@gmail.com</SPAN>
-<br>
 <br>
 <br>
 <SPAN class="small">© ℗ 2018 Diarchy. All rights reserved.</SPAN>
